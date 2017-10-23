@@ -1,0 +1,1 @@
+script generates metazoan constraint trees from alignment files, then performs the SOWH test implimented through SOWHAT. script also generates 100 bootstrap trees from alignment files using rapid bootstrap analyses in RAxML and performs the approximately unbiased (AU) test in CONSEL. 
