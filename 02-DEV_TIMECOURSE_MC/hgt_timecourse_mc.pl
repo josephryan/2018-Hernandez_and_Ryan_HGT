@@ -8,8 +8,8 @@ use Data::Dumper;
 
 our $SEED      = 420;
 our $REPS      = 1000;
-our $SAMPLES   = 13;
-our $POSITIVES = 10;
+our $SAMPLES   = 8;
+our $POSITIVES = 6;
 our $STOR_MEDIAN = './storable.median';
 
 
