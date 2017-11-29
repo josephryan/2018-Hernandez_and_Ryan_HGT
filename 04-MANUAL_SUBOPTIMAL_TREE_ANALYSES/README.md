@@ -18,3 +18,5 @@ _To run the AU test implemented through CONSEL on the best, metazoan-constraint,
 
 `catpv RAxML_perSiteLLs`
 
+## manual_subop_trees.tar.gz
+manually created suboptimal trees that have not been optimized
