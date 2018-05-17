@@ -11,3 +11,6 @@ alignment files for maximum-likelihood analyses
 
 #### RAxML_bestTree.EXP_ALN
 best tree files resulting from maximum-likelihood analyses
+
+### Enseml_Seqs 
+contains sequence data downloaded from the Ensembl Protists database. 
