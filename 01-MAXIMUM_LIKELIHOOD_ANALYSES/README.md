@@ -8,3 +8,6 @@ alignment files used for maximum-likelihood analyses before pruning
 
 ## all_likelihood_trees.tar.gz
 **01-PRE_PRUNING** contains all resulting trees from maximum-likelihood analyses before pruning. Trees that were pruned are found in **02-POST_PRUNING**
+
+## no_metazoans.tar.gz
+contains alingment files and maximum likelihood trees for confirmed HGTs that lacked animal BLAST hits
